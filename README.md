@@ -2,7 +2,7 @@
 GEOG 30323: Data Analysis &amp; Visualization Course that I took in Fall 2018 semester at Texas Christian University.
 
 ## Tools:
-***
+
 **CoCalc**
 
 **Jupyter Notebook**
@@ -17,7 +17,7 @@ analysis, visualization, and scientific computing. Anaconda is available via **C
 
 
 ## Course Overview:
-***
+
 
 * Assignment 2 - Intro to Python
 
