@@ -21,7 +21,7 @@ analysis, visualization, and scientific computing. Anaconda is available via **C
 
 * [Assignment 2 - Intro to Python](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab1)
 
-* Assignment 3 - Functions and modules in Python
+* [Assignment 3 - Functions and modules in Python](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab2)
 
 * Assignment 4 - Programming III
 
