@@ -27,14 +27,14 @@ analysis, visualization, and scientific computing. Anaconda is available via **C
 
 * [Assignment 5 - EDA I](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab4)
 
-* Assignment 6 - EDA II
+* [Assignment 6 - EDA II](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab5)
 
-* Assignment 7 - Data wrangling I
+* [Assignment 7 - Data wrangling I]()
 
-* Assignment 8 - Wrangling data from APIs
+* [Assignment 8 - Wrangling data from APIs]()
 
-* Assignment 9 - Data visualization
+* [Assignment 9 - Data visualization]()
 
-* Assignment 10 - Geographic data & visualization
+* [Assignment 10 - Geographic data & visualization]()
 
-* Assignment 11 - Data dashboards
+* [Assignment 11 - Data dashboards]()
