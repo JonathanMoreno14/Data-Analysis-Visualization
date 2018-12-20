@@ -4,6 +4,21 @@
 
 To get credit for this assignment, you are going to apply what you've learned to some additional tasks using the baby names dataset.  Some of this will involve re-producing some of the analyses in the notebook, but for different prompts.  
 
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+pd.options.mode.chained_assignment = None # Turning off the "SettingWithCopyWarning"
+sns.set(style = "white", rc = {"figure.figsize": (10, 8)})
+
+df = pd.read_csv('babynames.csv')
+# Converting the year to integer for better display
+df['year'] = df.year.astype('int')
+
+df.head()
+```
+
 __Exercise 1:__ Re-create the heatmap from Question 1, but this time for females.  What trends do you observe?  
 
 
