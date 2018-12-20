@@ -144,7 +144,7 @@ sns.heatmap(wide1)
 
 
 
-![png](data-visualization_files/data-visualization_30_1.png)
+<img width="711" alt="e1" src="https://user-images.githubusercontent.com/11635523/50259847-6f2d6080-03cb-11e9-85f3-5d4073314895.png">
 
 
 
@@ -170,7 +170,7 @@ plt.title("Most popular baby names - Female (rate per 1000)")
 
 
 
-![png](data-visualization_files/data-visualization_31_1.png)
+<img width="695" alt="e1 part 2" src="https://user-images.githubusercontent.com/11635523/50259849-72c0e780-03cb-11e9-99d6-a9907da86d89.png">
 
 
 
@@ -286,7 +286,7 @@ sns.lineplot(data = chosenName_df, x = "year", y = "per1000", hue = "name")
 
 
 
-![png](data-visualization_files/data-visualization_35_1.png)
+<img width="727" alt="exercise 2 part 1" src="https://user-images.githubusercontent.com/11635523/50259990-0f838500-03cc-11e9-9bde-020b8867ff0c.png">
 
 
 
@@ -327,7 +327,7 @@ plt.legend(title = "", fontsize = 12)
 
 
 
-![png](data-visualization_files/data-visualization_37_1.png)
+<img width="727" alt="exercise 2 part 2" src="https://user-images.githubusercontent.com/11635523/50259993-16aa9300-03cc-11e9-9d17-c86308fa81b4.png">
 
 
 
