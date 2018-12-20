@@ -33,7 +33,7 @@ analysis, visualization, and scientific computing. Anaconda is available via **C
 
 * [Assignment 8 - Wrangling data from APIs](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab7)
 
-* [Assignment 9 - Data visualization]()
+* [Assignment 9 - Data visualization](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/blob/master/Course-Materials/Lab-Assignments/Lab8/README.md)
 
 * [Assignment 10 - Geographic data & visualization]()
 
