@@ -441,6 +441,6 @@ sns.lineplot(data = chosenNames_df, x = "year", y = "per1000", hue = "name")
 
 
 
-![png](data-visualization_files/data-visualization_40_1.png)
+<img width="730" alt="exercise 3" src="https://user-images.githubusercontent.com/11635523/50260061-64270000-03cc-11e9-8835-2037104f2934.png">
 
 
