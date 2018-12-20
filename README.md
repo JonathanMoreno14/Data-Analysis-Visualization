@@ -37,4 +37,4 @@ analysis, visualization, and scientific computing. Anaconda is available via **C
 
 * [Assignment 10 - Geographic data & visualization](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab9)
 
-* [Assignment 11 - Data dashboards]()
+* [Assignment 11 - Data dashboards](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/tree/master/Course-Materials/Lab-Assignments/Lab10)
