@@ -42,8 +42,8 @@ analysis, visualization, and scientific computing. Anaconda is available via **C
 
 ### Exams:
 
-* Exam 1
+* [Exam 1](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/blob/master/Course-Materials/Exams/exam-1.ipynb)
 
-* Exam 2
+* [Exam 2](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/blob/master/Course-Materials/Exams/exam-2.ipynb)
 
-* Exam 3
+* [Exam 3](https://github.com/JonathanMoreno14/Data-Analysis-Visualization/blob/master/Course-Materials/Exams/exam3_Analysis.ipynb)
